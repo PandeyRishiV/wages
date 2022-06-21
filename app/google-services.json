@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044050270632",
+    "firebase_url": "https://wages-caaf4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wages-caaf4",
+    "storage_bucket": "wages-caaf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044050270632:android:4d334062af1a2297a0e59d",
+        "android_client_info": {
+          "package_name": "com.dev.wages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044050270632-hs6urqjmt38isfn6032ikskr65oofvee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbpXE7dGWlFHYCf8eJ1ZK2bTzgYfWR-a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044050270632-hs6urqjmt38isfn6032ikskr65oofvee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
